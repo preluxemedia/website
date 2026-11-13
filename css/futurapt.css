@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'futurapt';
-    src: url('https://github.com/preluxemedia/website/blob/main/fonts/Futura_PT_Extra_Bold.otf');
-    src: url('https://github.com/preluxemedia/website/blob/main/fonts/Futura_PT_Extra_Bold.otf?#iefix') format('embedded-opentype');
+    src: url('https://rawcdn.githack.com/preluxemedia/website/bf7d10df1b57a3ec65dd85446bf2de2177716527/fonts/Futura_PT_Extra_Bold.otf');
+    src: url('https://rawcdn.githack.com/preluxemedia/website/bf7d10df1b57a3ec65dd85446bf2de2177716527/fonts/Futura_PT_Extra_Bold.otf') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
 }

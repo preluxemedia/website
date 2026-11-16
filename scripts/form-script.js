@@ -1,4 +1,4 @@
-function sendMail() {
+function sendEmail() {
   let parms = {
     fullname : document.getElementById("fullname").value,
     brandname : document.getElementById("brandname").value,

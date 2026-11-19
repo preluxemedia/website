@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'futurapt';
-    src: url('https://rawcdn.githack.com/preluxemedia/website/bf7d10df1b57a3ec65dd85446bf2de2177716527/fonts/Futura_PT_Extra_Bold.otf') format('opentype');
+    font-family: 'articulatcf';
+    src: url('https://rawcdn.githack.com/preluxemedia/website/48c8d501a1615c51c67926c16bfbdd708093a4d0/fonts/ArticulatCF-DemiBold.otf');
+    src: url('https://rawcdn.githack.com/preluxemedia/website/48c8d501a1615c51c67926c16bfbdd708093a4d0/fonts/ArticulatCF-DemiBold.otf') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
